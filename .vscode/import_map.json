@@ -1,0 +1,15 @@
+{
+  ".": "THIS FILE EXISTS ONLY FOR VSCODE! IT IS NOT USED AT RUNTIME.",
+  "imports": {
+    "$fresh/": "https://deno.land/x/fresh@1.0.0/",
+    "preact": "https://esm.sh/preact@10.8.1",
+    "preact/": "https://esm.sh/preact@10.8.1/",
+    "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.0?deps=preact@10.8.1",
+    "@twind": "./utils/twind.ts",
+    "@posts": "./utils/posts.ts",
+    "twind": "https://esm.sh/twind@0.16.17",
+    "twind/": "https://esm.sh/twind@0.16.17/",
+    "marked": "https://deno.land/x/markdown@v2.0.0/mod.ts",
+    "graphql-request": "https://deno.land/x/graphql_request@v4.1.0/mod.ts"
+  }
+}
